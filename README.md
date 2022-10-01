@@ -1,6 +1,6 @@
 ### Hello!
 
-- Goals: Finish work
+- ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
 
 <!--
 **ZaRamen/ZaRamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
