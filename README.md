@@ -1,5 +1,5 @@
 ### Hello! ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaRamen&show_icons=true&a&count_private=trutheme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaRamen&show_icons=true&a&count_private=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRamen&layout=compact)](https://github.com/ZaRamen/github-readme-stats)
 <!--
