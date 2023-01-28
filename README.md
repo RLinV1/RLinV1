@@ -1,5 +1,5 @@
 # Hello! ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=50&duration=2000&pause=1000&color=FFA6C9&center=true&vCenter=true&width=1000&height=100&lines=Welcome+To+My+Github+Prof.;Kirby+is+Sleeping+So+Stay+Silent.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=50&duration=2000&pause=1000&color=FFA6C9&center=true&vCenter=true&width=1000&height=100&lines=Welcome+To+My+Github+Profole;Kirby+is+Sleeping+So+Stay+Silent.)](https://git.io/typing-svg)
 
 ![dreaming](https://user-images.githubusercontent.com/86033049/215239570-27af3fba-02f7-4ace-8685-8ce78594832f.gif)
 
