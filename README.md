@@ -1,7 +1,7 @@
 ### Hello! ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
 
 
-![Kirby Swallow](https://user-images.githubusercontent.com/86033049/215239284-918a8a50-c3ff-4c6b-b267-5d75da3b7559.gif)
+![good2](https://user-images.githubusercontent.com/86033049/215239350-c8424c72-b227-4e21-a940-bbdb8445e34f.gif)
 
 
 ![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZaRamen&count_private=true&theme=dark)
