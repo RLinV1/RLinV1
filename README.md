@@ -1,6 +1,6 @@
 ### Hello! ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿ )
 
-![snake gif](https://github.com/ZaRamen/ZaRamen/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ZaRamen/ZaRamen/blob/output/github-contribution-grid-snake.svg)
 
 ![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZaRamen&count_private=true&theme=dark)
 
