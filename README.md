@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZaRamen&layout=compact&theme=dark)](https://github.com/ZaRamen/github-readme-stats)
 
-![snake gif](https://github.com/ZaRamen/ZaRamen/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ZaRamen/ZaRamen/output/github-contribution-grid-snake.gif)
 
 
 
