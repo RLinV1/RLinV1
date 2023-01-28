@@ -10,7 +10,6 @@
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZaRamen&repo=Survive-the-Infected&theme=dracula)](https://github.com/ZaRamen/Survive-the-Infected)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZaRamen&repo=World-Hardest-Game-Clone&theme=dracula)](https://github.com/ZaRamen/World-Hardest-Game-Clone)
 
 
