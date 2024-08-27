@@ -25,7 +25,7 @@
   
 ## Random Snake
 <p align="center">
-      <img src="https://github.com/RLinV1/RLinV1/blob/output/github-contribution-grid-snake.svg">
+      <img src="https://github.com/RLinV1/RLinV1/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ## Visitor Count
