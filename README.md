@@ -24,6 +24,9 @@
   <a href="https://github.com/RLinV1/Meal-Plan-Tracker">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=Meal-Plan-Tracker&theme=dracula" />
   </a>
+ <a href="https://github.com/RLinV1/Reddit-Shorts-Maker">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=Reddit-Shorts-Maker&theme=dracula" />
+ </a>
 </div>
   
 ## Random Snake
