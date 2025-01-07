@@ -38,7 +38,3 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/RLinV1/count.svg">
 </p>
-<!--
-**ZaRamen/ZaRamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
