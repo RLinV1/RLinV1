@@ -1,6 +1,5 @@
-# Hello! 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F7972C&width=600&height=100&lines=Check+Out+My+Portfolio+Website)](https://git.io/typing-svg)
-<a href="https://raymondportfolio.vercel.app" target="_blank"> <h2>🔗 raymondportfolio.vercel.app</h2> </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F7972C&width=600&height=100&lines=Hello!)](https://git.io/typing-svg)
+## 🚀 Visit My Portfolio → [raymondportfolio.vercel.app](https://raymondportfolio.vercel.app)
 
 <div align="center">
   <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RLinV1&count_private=true&theme=dark" />
