@@ -1,7 +1,8 @@
 # Hello! 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7972C&random=true&width=440&lines=Check+Out+My+Portfolio+Website)](https://git.io/typing-svg) https://raymondportfolio.vercel.app
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7972C&random=true&width=440&lines=Check+Out+My+Portfolio+Website)](https://git.io/typing-svg) 
 
-## Github Stats
+# https://raymondportfolio.vercel.app
+
 <div align="center">
   <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RLinV1&count_private=true&theme=dark" />
   <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RLinV1&layout=compact&theme=dark" />
