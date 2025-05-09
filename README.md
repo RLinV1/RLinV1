@@ -1,5 +1,6 @@
 # Hello! 
-Check out my Portfolio Website: https://raymondportfolio.vercel.app
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7972C&random=true&width=440&lines=Check+Out+My+Portfolio+Website)](https://git.io/typing-svg)
+https://raymondportfolio.vercel.app
 
 ## Github Stats
 <div align="center">
