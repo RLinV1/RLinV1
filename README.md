@@ -2,7 +2,7 @@
 ## 🚀 Visit My Portfolio → [raymondportfolio.vercel.app](https://raymondportfolio.vercel.app)
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLinV1)](https://github.com/RLinV1/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RLinV1&theme=dracula" />
 </div>
 
 
