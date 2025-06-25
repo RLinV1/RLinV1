@@ -2,8 +2,7 @@
 ## 🚀 Visit My Portfolio → [raymondportfolio.vercel.app](https://raymondportfolio.vercel.app)
 
 <div align="center">
-  <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RLinV1&count_private=true&theme=dark" />
-  <img class="img" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RLinV1&layout=compact&theme=dark" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLinV1)](https://github.com/RLinV1/github-readme-stats)
 </div>
 
 
