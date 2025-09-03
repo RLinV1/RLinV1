@@ -44,18 +44,18 @@
 
 ## Projects
 <div align="center">
-  <a href="https://github.com/RLinV1/Survive-the-Infected">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=Survive-the-Infected&theme=dracula" />
+  <a href="https://github.com/RLinV1/AI-Study-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=AI-Study-App&theme=dracula" />
   </a>
-   <a href="https://github.com/RLinV1/World-Hardest-Game-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=World-Hardest-Game-Clone&theme=dracula" />
+   <a href="https://github.com/RLinV1/CS-Match-Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=CS-Match-Predictor&theme=dracula" />
   </a>
+ <a href="https://github.com/RLinV1/Stock-Trading-App">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=Stock-Trading-App&theme=dracula" />
+ </a>
   <a href="https://github.com/RLinV1/Meal-Plan-Tracker">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=Meal-Plan-Tracker&theme=dracula" />
   </a>
- <a href="https://github.com/RLinV1/Reddit-App">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=Reddit-App&theme=dracula" />
- </a>
 </div>
   
 <p align="center">
