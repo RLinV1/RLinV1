@@ -3,11 +3,11 @@
 🚀 Visit My Portfolio Website → [raymondportfolio.vercel.app](https://raymondportfolio.vercel.app)
 
 ##
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RLinV1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RLinV1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+</div> -->
+![Github Card](https://githubcard.com/RLinV1.svg?d=HMBZI_Jh)
 ## My Tech Stack
 
 <div align="center">
@@ -43,7 +43,28 @@
 </div>
 
 ## Projects
-<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://githubcard.com/RLinV1/Meal-Plan-Tracker.svg?d=p-p0Jszw" alt="Meal Plan Tracker" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://githubcard.com/RLinV1/AI-Study-App.svg?d=NvV7E__8" alt="AI Study App" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://githubcard.com/RLinV1/CS-Match-Predictor.svg?d=bsAOK1YL" alt="CS Match Predictor" />
+    </td>
+    <td align="center" style="border: none; padding: 8px;">
+      <img src="https://githubcard.com/RLinV1/Stock-Trading-App.svg?d=sdkytDKP" alt="Stock Trading App" />
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- <div align="center">
   <a href="https://github.com/RLinV1/AI-Study-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=AI-Study-App&theme=dracula" />
   </a>
@@ -56,7 +77,7 @@
   <a href="https://github.com/RLinV1/Meal-Plan-Tracker">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RLinV1&repo=Meal-Plan-Tracker&theme=dracula" />
   </a>
-</div>
+</div> -->
   
 <p align="center">
       <img src="https://github.com/RLinV1/RLinV1/blob/output/github-contribution-grid-snake-dark.svg">
