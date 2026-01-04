@@ -42,8 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-## Projects
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<!-- <table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; padding: 8px;">
       <img src="https://githubcard.com/RLinV1/Meal-Plan-Tracker.svg?d=p-p0Jszw" alt="Meal Plan Tracker" />
@@ -60,7 +59,7 @@
       <img src="https://githubcard.com/RLinV1/Stock-Trading-App.svg?d=sdkytDKP" alt="Stock Trading App" />
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
